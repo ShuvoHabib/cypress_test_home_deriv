@@ -24,5 +24,8 @@
     "cypress": "^13.6.0",
     "dotenv": "^17.2.3",
     "playwright": "^1.58.0"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
   }
 }
